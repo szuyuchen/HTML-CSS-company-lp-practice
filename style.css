@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@300;400;700&display=swap');
+
+html {
+  font-size: 100%;
+  scroll-behavior: smooth;
+}
+
+body {
+  color: #282828;
+  font-family: 'Noto Sans TC', sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+p {
+  font-size: 1.4rem;
+}
+
+img {
+  max-width: 100%;
+}
+
+li {
+  list-style: none;
+  font-size: 1.2rem;
+}
+
+.site-title {
+  line-height: 1px;
+  font-weight: 400;
+  font-size: 2.6rem;
+}
+
+.site-title a {
+  display: block;
+  color: #282828;
+}
+
+.site-title a img.logo {
+  width: 35px;
+}
+
+/* Header  */
+#header {
+  max-width: 960px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 170px;
+  margin: 0 auto;
+  padding: 0 4%;
+}
+
+#header ul {
+  display: flex;
+  padding: 10px 0;
+  align-items: center;
+}
+
+#header li {
+  font-size: 0.9rem;
+  margin-left: 30px;
+}
+
+header li a {
+  color: #282828;
+  transition: all 0.3s;
+}
+
+#header li a:hover {
+  opacity: 0.5;
+}
+
+#header li img.icon {
+  width: 30px;
+}
+
+@media screen and (max-width: 600px) {
+  .site-title {
+    margin-top: 20px;
+  }
+  
+  /* Header*/
+  #header {
+    max-width: 100%;
+    height: auto;
+    flex-direction: column;
+    margin-top: 20px;
+    line-height: 40px;
+  }
+
+  #header li {
+    font-size: 0.8rem;
+    margin-left: 20px;
+  }
+
+  #header li:first-child {
+    margin-left: 0;
+  }
+
+  #header li img.icon {
+    width: 20px;
+    margin-top: 15px;
+  }
+}
