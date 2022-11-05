@@ -2,7 +2,7 @@
 
 ### Purpose: 
 
-- Use HTML and CSS to create a small business company landing page.
+- Use HTML and CSS to create a small business company landing page. (Unfinished)
 
 <img src="" width=400>
 
@@ -13,3 +13,7 @@ https://szuyuchen.github.io/HTML-CSS-company-lp-practice/
 ### Tools:
 
 - Boxicons: https://boxicons.com/
+
+### Memo:
+
+11/05: header
