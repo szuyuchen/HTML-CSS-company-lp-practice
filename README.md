@@ -17,3 +17,4 @@ https://szuyuchen.github.io/HTML-CSS-company-lp-practice/
 ### Memo:
 
 11/05: header
+11/06: about, intro
