@@ -18,3 +18,4 @@ https://szuyuchen.github.io/HTML-CSS-company-lp-practice/
 
 11/05: header
 11/06: about, intro
+11/07: intro, news
