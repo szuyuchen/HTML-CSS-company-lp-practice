@@ -2,7 +2,7 @@
 
 ### Purpose: 
 
-- Use HTML and CSS to create a responsive small business company landing page. 
+- Use HTML and CSS to create a responsive small business company landing page (in Chinese). 
 
 <img src="https://raw.githubusercontent.com/szuyuchen/HTML-CSS-company-lp-practice/4d937f17dd3acc26862656c8ece204651b25e3bb/sample01.png" width=500>
 
